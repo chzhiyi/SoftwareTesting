@@ -1,0 +1,22 @@
+testOK (unittestSkip.MyTestCase) ... ok
+testSkip (unittestSkip.MyTestCase) ... skipped '演示直接跳过'
+testSkipExpectedFailure (unittestSkip.MyTestCase) ... expected failure
+testSkipIf (unittestSkip.MyTestCase) ... ok
+testSkipUnless (unittestSkip.MyTestCase) ... ok
+testSkipUnlessAgeLessThen60 (unittestSkip.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.001s
+
+OK (skipped=1, expected failures=1)
+testOK (unittestSkip.MyTestCase) ... ok
+testSkip (unittestSkip.MyTestCase) ... skipped '演示直接跳过'
+testSkipExpectedFailure (unittestSkip.MyTestCase) ... expected failure
+testSkipIf (unittestSkip.MyTestCase) ... ok
+testSkipUnless (unittestSkip.MyTestCase) ... ok
+testSkipUnlessAgeLessThen60 (unittestSkip.MyTestCase) ... ok
+
+----------------------------------------------------------------------
+Ran 6 tests in 0.002s
+
+OK (skipped=1, expected failures=1)
