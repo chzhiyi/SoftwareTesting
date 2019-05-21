@@ -1,7 +1,3 @@
-# _*_coding: utf-8_*_
-# create_time: 2019-05-20 06:33
-# author: qiaosong
-
 import linecache
 import re
 import db_utils
